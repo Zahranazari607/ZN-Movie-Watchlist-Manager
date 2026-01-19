@@ -20,8 +20,3 @@ A professional React application built for the **Week 2 Assignment**. This proje
 - **Glassmorphism:** Modern transparent UI card with `backdrop-filter: blur`.
 - **Responsive Design:** Beautifully centered layout using Flexbox.
 - **Interactive Hover:** Gradient animations on the main container.
-
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/movie-watchlist.git](https://github.com/your-username/movie-watchlist.git)
